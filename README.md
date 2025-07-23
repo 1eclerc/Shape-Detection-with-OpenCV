@@ -1,4 +1,4 @@
-,# 🔷 Shape Detection using OpenCV
+# 🔷 Shape Detection using OpenCV
 
 This is a simple computer vision project that detects basic geometric shapes (circle, triangle, square, rectangle, polygon) in an image using **OpenCV**. The project uses contour detection and Hough Circle Transform to identify and label shapes visually.
 
