@@ -70,4 +70,4 @@ image_path = "shapes.jpg"
 
 ## 🪪 License
 
-This project is for educational use and exam demonstration purposes.
+This project is for educational use.
