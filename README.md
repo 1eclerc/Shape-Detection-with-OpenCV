@@ -68,14 +68,6 @@ image_path = "shapes.jpg"
 
 ---
 
-## 🎓 Author Info
-
-- **Student**: Ali Cemal Gülmez – 211805078  
-- **Lecturer**: Dr. Mahmut Sinecen  
-- **Course**: CSE307 – Image Processing (Application Exam)
-
----
-
 ## 🪪 License
 
 This project is for educational use and exam demonstration purposes.
